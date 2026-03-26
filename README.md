@@ -36,11 +36,7 @@
 ---
 
 ## 🏗️ Ongoing Projects
-> 🛠️ **Building:** [KQL-Elite-Hunting]((https://github.com/0W3RTY/KQL-Elite-Hunting)) - My personal repository for advanced detections.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0W3RTY&show_icons=true&theme=minecraft&hide_border=true" />
-</p>
+> 🛠️ **Building:** [KQL-Elite-Hunting](https://github.com/0W3RTY/KQL-Elite-Hunting) - My personal repository for advanced detections.
 
 ---
 <p align="center">
