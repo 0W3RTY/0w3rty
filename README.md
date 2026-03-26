@@ -26,11 +26,11 @@
 ## ⚔️ Current Quest: Evolution to Threat Hunter
 *Leveling up my skills in advanced detection and behavioral analysis:*
 
-* 🔍 ** Proactive Hunting:** Searches based on **MITRE ATT&CK** TTPs.
-* 💎 ** EDR Telemetry:** Identification of deep anomalies in endpoint telemetry.
-* 🧪 ** Alchemy (Correlation):** Hypothesis creation and advanced correlation in `KQL`, `SPL`, and `AQL`.
-* 📦 ** Sandbox Analysis:** Dissecting IOCs and behaviors in isolated environments.
-* 🛡️ ** Hardening:** Continuous improvement of detections and purging False Positives.
+* 🔍 **Proactive Hunting:** Searches based on **MITRE ATT&CK** TTPs.
+* 💎 **EDR Telemetry:** Identification of deep anomalies in endpoint telemetry.
+* 🧪 **Alchemy (Correlation):** Hypothesis creation and advanced correlation in `KQL`, `SPL`, and `AQL`.
+* 📦 **Sandbox Analysis:** Dissecting IOCs and behaviors in isolated environments.
+* 🛡️ **Hardening:** Continuous improvement of detections and purging False Positives.
 
 
 ---
