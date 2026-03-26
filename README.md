@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoftazure" />
   <img src="https://img.shields.io/badge/IBM_Qradar-SIEM-1F70C1?style=for-the-badge&logo=ibm" />
-  <img src="https://img.shields.io/badge/Google_Chronicle-SecOps-4285F4?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Google_Chronicle-XSOAR-4285F4?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/Sekoia.io-XDR-5E24FF?style=for-the-badge&logo=sekoia" />
   
   <img src="https://img.shields.io/badge/Others-Security_Tools-36CD31?style=for-the-badge&logo=fortinet" />
